@@ -1,6 +1,7 @@
 # sltr_demo
 这个是o19s提供的[elasticsearch-learning-to-rank](https://github.com/o19s/elasticsearch-learning-to-rank)插件的demo
-由于原版的demo中缺少对最后的结果进行有效的展示，因此这里对原版demo稍作修改，以期直观得展示出该插件的效果
+
+原版demo中记录了两个feature，这给最后效果的展示带来一定的干扰，因此这里对原版demo稍作修改，以期直观得展示出该插件的效果
 
 ## 使用步骤
 1.prepare.py 
@@ -17,4 +18,5 @@
 
 ## 最后
 es7.0之后将不支持mapping_types的功能，估计o19s又有个大活干了；
+
 感谢开源
