@@ -44,7 +44,7 @@ Elasticsearch LTR features correspond to Elasticsearch queries. The **score** of
 * `hpc1`项目存放地址:
 `es` `/data/home/li****an/es/elasticsearch-6.1.2`
 
-* 为了能更直观的展示该插件的效果，我对原生`demo`做了修改，详细的测试方法见链接[demo](https://github.com/o19s/elasticsearch-learning-to-rank/tree/master/demo)
+* 为了能更直观的展示该插件的效果，我对原生`demo`做了修改
 
 ## `demo`效果展示
 * 目标：利用插件，让原本的结果**颠倒**
