@@ -1,0 +1,34 @@
+# grade (0-4)	queryid	docId	title
+# 
+# Add your keyword strings below, the feature script will
+# Use them to populate your query templates
+#
+# qid:1: rambo
+# qid:2: rocky
+# qid:3: bullwinkle
+#
+# https://sourceforge.net/p/lemur/wiki/RankLib%20File%20Format/
+#
+#
+0	qid:1 #	7555	Rambo
+1	qid:1 #	1370	Rambo III
+1	qid:1 #	1369	Rambo: First Blood Part II
+2	qid:1 #	1368	First Blood
+3	qid:1 #	31362	In the Line of Duty: The F.B.I. Murders
+4	qid:1 #	13258	Son of Rambow
+4	qid:1 #	61410	Spud
+4	qid:2 #	1366	Rocky
+3	qid:2 #	1246	Rocky Balboa
+3	qid:2 #	60375	Rocky VI
+3	qid:2 #	1371	Rocky III
+3	qid:2 #	1375	Rocky V
+3	qid:2 #	1374	Rocky IV
+0	qid:2 #	110123	Incredible Rocky Mountain Race
+0	qid:2 #	17711	The Adventures of Rocky & Bullwinkle
+0	qid:2 #	36685	The Rocky Horror Picture Show
+4	qid:3 #	17711	The Adventures of Rocky & Bullwinkle
+0	qid:3 #	1246	Rocky Balboa
+0	qid:3 #	60375	Rocky VI
+0	qid:3 #	1371	Rocky III
+0	qid:3 #	1375	Rocky V
+0	qid:3 #	1374	Rocky IV
