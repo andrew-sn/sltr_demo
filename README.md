@@ -106,4 +106,8 @@ Rambo 7555
 
 ### ranklib
 一开始运行`python train.py`时报错，显示`pool-1-thread-1`，跟这个[issue](https://github.com/o19s/elasticsearch-learning-to-rank/issues/166)一样，后来无意间运行竟然成功了
-#工程/es
+
+## 最后
+`es7.0`之后将要取消对`mapping_types`的支持，估计`o19s`又有的忙了
+
+拥抱开源：）
