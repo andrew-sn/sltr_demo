@@ -213,6 +213,12 @@ def train_model(train_data_file, model_file):
 
 
 def save_moedl2es(script_name, feature_set, model_file):
+    """
+    目前支持的"type":
+    1. ranklib: model / ranklib
+    2. xgboost: model / xgboost + json
+    3. simple dot product: model / linear
+    """
     model_payload = {
         "model": {
             "name": script_name,
